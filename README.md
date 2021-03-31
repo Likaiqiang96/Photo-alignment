@@ -1,1 +1,2 @@
-# Photo_alightment
+# Photo alignment
+opencv-python
